@@ -1,9 +1,0 @@
-sample!!
-13
-1 2 3
-A B C
-1 2 3 4 5 6 7
-3
-row1A, row1B
-row2A, row2B
-row3A, row3B
